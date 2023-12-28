@@ -3,9 +3,12 @@
 <h1 align="center">Merhaba👋, ben Sıla BAĞLAN</h1>
 <h3 align="center">Mimar Sinan Güzel Sanatlar Üniversitesi İstatistik bölümü</h3>
 
-- 👨‍💻 Tüm projelerime [www .linkedin.com/in/sıla-bağlan-3a6416252](www.linkedin.com/in/sıla-bağlan-3a6416252)
 
-- 📫Bana nasıl ulaşabilirsiniz **20211101018@ogr.msgsu.edu.tr**
+
+- Ben Mimar Sinan Güzel Sanatlar Üniversitesi İstatistik bölümünü 3. sınıf öğrencisiyim.
+- istanbul da ikamet ediyorum.
+ 
+- 📫Bana nasıl ulaşabilirsiniz **silabaglan03@gmail.com**
 
 <h3 align ="left">Benimle bağlantı kurun:</h3>
 <p align="left">
