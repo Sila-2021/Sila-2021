@@ -1,4 +1,4 @@
-![masterhead](https://lh3.googleusercontent.com/p/AF1QipNf5W7PRTwJSeyz9V8FuP6IsGg7AG2r3Fh60OEd=w1080-h608-p-no-v0)
+![masterhead](https://media.licdn.com/dms/image/C5112AQFrebthPklz1g/article-cover_image-shrink_600_2000/0/1520094814816?e=2147483647&v=beta&t=V8eGKneVND1mxSeTi6z3MFouF6EsBI_9niT4LcWMc38)
 
 <h1 align="center">Merhaba👋, ben Sıla BAĞLAN</h1>
 <h3 align="center">Mimar Sinan Güzel Sanatlar Üniversitesi İstatistik bölümü</h3>
